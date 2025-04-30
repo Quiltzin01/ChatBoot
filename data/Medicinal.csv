@@ -1,0 +1,101 @@
+﻿Familia,Especie,Autor,"Estados con ese uso","Estados con algún uso","Zona Norte","Zona Centro","Zona Sur"
+Acanthaceae,"Aphelandra aurantiaca","(Scheidw.) Lindl.",VER,VER,'-,s,'-
+Acanthaceae,"Aphelandra scabra","(Vahl) Sm.","ROO VER YUC","CHP OAX ROO VER YUC",'-,s,s
+Acanthaceae,"Avicennia germinans","(L.) L.","OAX VER","NAY OAX ROO TAB VER YUC",s,s,s
+Acanthaceae,"Barleria oenotheroides",Dum.Cours.,OAX,OAX,'-,'-,s
+Acanthaceae,"Dianthera breviflora","(Nees) Hemsl.","CHP OAX","CHP OAX",'-,'-,s
+Acanthaceae,"Dianthera candelariae","(Oerst.) Hemsl.",VER,"HID VER",'-,s,'-
+Acanthaceae,"Dianthera candicans","(Nees) Benth. & Hook.f. ex Hemsl.",PUE,"CHH PUE",s,s,'-
+Acanthaceae,"Dianthera comata",L.,PUE,PUE,'-,s,'-
+Acanthaceae,"Dicliptera sexangularis","(L.) Juss.","SLP YUC","SLP YUC",s,'-,s
+Acanthaceae,"Dicliptera unguiculata",Nees,CHP,CHP,'-,'-,s
+Acanthaceae,"Dyschoriste capitata","(Oerst.) Kuntze",CHP,CHP,'-,'-,s
+Acanthaceae,"Dyschoriste hirsutissima","(Nees) Kuntze",OAX,OAX,'-,'-,s
+Acanthaceae,"Dyschoriste ovata","(Cav.) Kuntze",CHP,CHP,'-,'-,s
+Acanthaceae,"Elytraria bromoides",Oerst.,SLP,SLP,s,'-,'-
+Acanthaceae,"Elytraria imbricata","(Vahl) Pers.","BCS CHH JAL MIC OAX ROO YUC","BCS CHH JAL MIC OAX ROO YUC",s,s,s
+Acanthaceae,"Elytraria mexicana","Fryxell & S.D.Koch",MIC,MIC,'-,s,'-
+Acanthaceae,"Henrya insularis",Nees,NAY,NAY,s,'-,'-
+Acanthaceae,"Henrya scorpioides","(L.) Nees",SLP,SLP,s,'-,'-
+Acanthaceae,"Justicia bartlettii","(Leonard) D.N.Gibson",CHP,CHP,'-,'-,s
+Acanthaceae,"Justicia brandegeeana","Wassh. & L.B.Sm.",SLP,"SLP VER YUC",s,s,s
+Acanthaceae,"Justicia fimbriata","(Nees) V.A.W.Graham",CHP,CHP,'-,'-,s
+Acanthaceae,"Justicia gonzalezii","(Greenm.) Henrickson & Hiriart",OAX,OAX,'-,'-,s
+Acanthaceae,"Justicia leonardii",Wassh.,"QUE SLP","QUE SLP",s,s,'-
+Acanthaceae,"Justicia spicigera",Schltdl.,"CHP GRO HID MEX MIC MOR OAX PUE ROO SLP VER","CHP GRO HID MEX MIC MOR OAX PUE ROO SLP VER YUC",s,s,s
+Acanthaceae,"Justicia straminea",D.N.Gibson,SLP,SLP,s,'-,'-
+Acanthaceae,"Lepidagathis alopecuroidea","(Vahl) R.Br. ex Griseb.",VER,VER,'-,s,'-
+Acanthaceae,"Louteridium mexicanum","(Baill.) Standl.",OAX,"CHP OAX",'-,'-,s
+Acanthaceae,"Odontonema albiflorum",Leonard,CHP,CHP,'-,'-,s
+Acanthaceae,"Odontonema callistachyum","(Schltdl. & Cham.) Kuntze","CHP OAX VER","CHP OAX VER",'-,s,s
+Acanthaceae,"Odontonema tubaeforme","(Bertol.) Kuntze",CHP,CHP,'-,'-,s
+Acanthaceae,"Pseuderanthemum cuspidatum","(Nees) Radlk.",CHP,CHP,'-,'-,s
+Acanthaceae,"Pseuderanthemum verapazense",Donn.Sm.,CHP,CHP,'-,'-,s
+Acanthaceae,"Ruellia blechum",L.,"CAM CHP NAY OAX SLP VER YUC","CAM CHP NAY OAX SLP VER YUC",s,s,s
+Acanthaceae,"Ruellia ciliatiflora",Hook.,"SLP YUC","SLP YUC",s,'-,s
+Acanthaceae,"Ruellia foetida","Humb. & Bonpl. ex Willd.",GRO,"GRO OAX",'-,'-,s
+Acanthaceae,"Ruellia hookeriana","(Nees) Hemsl.",CHP,CHP,'-,'-,s
+Acanthaceae,"Ruellia jussieuoides","Schltdl. & Cham.",VER,VER,'-,s,'-
+Acanthaceae,"Ruellia macrosiphon",Kurz,SLP,SLP,s,'-,'-
+Acanthaceae,"Ruellia matudae",Leonard,CHP,CHP,'-,'-,s
+Acanthaceae,"Ruellia megasphaera",Lindau,OAX,OAX,'-,'-,s
+Acanthaceae,"Ruellia simplex",C.Wright,"MEX MIC MOR","MEX MIC MOR",'-,s,'-
+Acanthaceae,"Ruellia tuberosa",L.,YUC,YUC,'-,'-,s
+Acanthaceae,"Tetramerium diffusum",Rose,MIC,MIC,'-,s,'-
+Acanthaceae,"Tetramerium nervosum",Nees,"SLP SON","MIC SLP SON",s,s,'-
+Acanthaceae,"Thunbergia alata","Bojer ex Sims",VER,"MOR OAX VER",'-,s,s
+Acanthaceae,"Thunbergia fragrans",Roxb.,"SLP VER","GRO PUE SLP TAB VER",s,s,s
+Acanthaceae,"Thunbergia grandiflora",Roxb.,CHP,"CHP VER YUC",'-,s,s
+Achatocarpaceae,"Achatocarpus nigricans",Triana,"SLP VER","OAX SLP VER",s,s,s
+Actinidiaceae,"Saurauia angustifolia",Turcz.,CHP,"CHP OAX",'-,'-,s
+Actinidiaceae,"Saurauia oreophila",Hemsl.,CHP,"CHP OAX",'-,'-,s
+Actinidiaceae,"Saurauia scabrida",Hemsl.,"CHP SLP VER","CHP PUE QUE SLP VER",s,s,s
+Aizoaceae,"Sesuvium portulacastrum","(L.) L.",YUC,"ROO YUC",'-,'-,s
+Alismataceae,"Aquarius subulatus","(Mart. ex Schult.f.) Christenh. & Byng",YUC,"MOR YUC",'-,s,s
+Alstroemeriaceae,"Bomarea acutifolia","(Link & Otto) Penny",VER,VER,'-,s,'-
+Alstroemeriaceae,"Bomarea edulis","(Tussac) Herb.","CHP SLP","CHP OAX SLP",s,'-,s
+Altingiaceae,"Liquidambar styraciflua",L.,"CHP OAX VER","CHP HID OAX PUE SLP VER",s,s,s
+Amaranthaceae,"Achyranthes aspera",L.,"NAY SLP YUC","NAY SLP YUC",s,'-,s
+Amaranthaceae,"Alternanthera caracasana",Kunth,"HID MIC OAX VER","HID MIC OAX VER",'-,s,s
+Amaranthaceae,"Alternanthera pungens",Kunth,"MEX MIC NAY","MEX MIC NAY",s,s,'-
+Amaranthaceae,"Alternanthera ramosissima","(Mart.) Chodat & Hassl.",YUC,YUC,'-,'-,s
+Amaranthaceae,"Alternanthera sessilis","(L.) R.Br. ex DC.","CMX MEX","CMX MEX",'-,s,'-
+Amaranthaceae,"Amaranthus cruentus",L.,"HID PUE","HID OAX PUE",'-,s,s
+Amaranthaceae,"Amaranthus hybridus",L.,"CHP CMX MOR PUE SLP VER","CHP CMX GRO GUA HID MIC MOR NAY OAX PUE QUE SLP TAM VER",s,s,s
+Amaranthaceae,"Amaranthus hypochondriacus",L.,"GRO MIC PUE","CHH GRO MEX MIC OAX PUE VER",s,s,s
+Amaranthaceae,"Amaranthus scariosus",Benth.,OAX,"GRO OAX",'-,'-,s
+Amaranthaceae,"Amaranthus spinosus",L.,PUE,"CAM GRO MOR OAX PUE VER YUC",'-,s,s
+Amaranthaceae,"Beta vulgaris",L.,MEX,"CMX MEX MIC",'-,s,'-
+Amaranthaceae,"Celosia argentea",L.,"CMX OAX PUE VER","CHP CMX GRO NAY OAX PUE VER YUC",s,s,s
+Amaranthaceae,"Chamissoa altissima","(Jacq.) Kunth",CHP,"CHP SLP",s,'-,s
+Amaranthaceae,"Chenopodiastrum murale","(L.) S.Fuentes, Uotila & Borsch","CHP MEX OAX PUE","CHP GRO HID MEX OAX PUE",'-,s,s
+Amaranthaceae,"Chenopodium berlandieri",Moq.,"MEX YUC","CHH CMX DUR GRO MEX MIC PUE YUC",s,s,s
+Amaranthaceae,"Dysphania ambrosioides","(L.) Mosyakin & Clemants","BCS CHH CHP CMX GRO MEX MIC MOR OAX PUE ROO TAB TLA VER","BCS CHH CHP CMX COL GRO HID MEX MIC MOR OAX PUE ROO TAB TLA VER",s,s,s
+Amaranthaceae,"Dysphania incisa","(Poir.) ined.","AGU CHH CMX DUR MEX PUE VER","AGU CHH CMX DUR MEX PUE VER",s,s,'-
+Amaranthaceae,"Gomphrena filaginoides","M.Martens & Galeotti",VER,VER,'-,s,'-
+Amaranthaceae,"Gomphrena globosa",L.,"CMX PUE SLP VER","CAM CHP CMX PUE SLP VER YUC",s,s,s
+Amaranthaceae,"Gomphrena nitida",Rothr.,"MOR OAX","MOR OAX",'-,s,s
+Amaranthaceae,"Gomphrena pilosa","(M.Martens & Galeotti) Moq.","PUE VER","PUE VER",'-,s,'-
+Amaranthaceae,"Gomphrena pringlei","J.M.Coult. & Fisher",PUE,PUE,'-,s,'-
+Amaranthaceae,"Gomphrena serrata",L.,"CHH JAL PUE SLP VER","CHH GRO GUA JAL PUE QUE SLP VER",s,s,s
+Amaranthaceae,"Hebanthe grandiflora","(Hook.) Borsch & Pedersen",VER,VER,'-,s,'-
+Amaranthaceae,"Iresine angustifolia",Euphrasén,NAY,NAY,s,'-,'-
+Amaranthaceae,"Iresine diffusa","Humb. & Bonpl. ex Willd.","CMX MEX MIC OAX VER","CMX MEX MIC OAX VER",'-,s,s
+Amaranthaceae,"Iresine latifolia","(M.Martens & Galeotti) Benth. & Hook.f.",OAX,OAX,'-,'-,s
+Amaranthaceae,"Tidestromia lanuginosa","(Nutt.) Standl.",SIN,SIN,s,'-,'-
+Amaryllidaceae,"Allium longifolium","(Kunth) Spreng.",MEX,"CHH DUR MEX PUE VER",s,s,'-
+Amaryllidaceae,"Allium neapolitanum",Cirillo,VER,"PUE VER",'-,s,'-
+Amaryllidaceae,"Crinum asiaticum",L.,CHP,CHP,'-,'-,s
+Amaryllidaceae,"Crinum erubescens","L.f. ex Aiton",VER,VER,'-,s,'-
+Amaryllidaceae,"Crinum zeylanicum","(L.) L.",VER,VER,'-,s,'-
+Amaryllidaceae,"Hymenocallis acutifolia","(Herb. ex Sims) Sweet",GRO,GRO,'-,'-,s
+Amaryllidaceae,"Hymenocallis littoralis","(Jacq.) Salisb.",YUC,"CHP VER YUC",'-,s,s
+Amaryllidaceae,"Zephyranthes fosteri",Traub,GUA,GUA,'-,s,'-
+Anacardiaceae,"Anacardium occidentale",L.,"CAM OAX","CAM GRO NAY OAX",s,'-,s
+Anacardiaceae,"Comocladia mollissima",Kunth,OAX,OAX,'-,'-,s
+Anacardiaceae,"Comocladia palmeri",Rose,OAX,OAX,'-,'-,s
+Anacardiaceae,"Cyrtocarpa procera",Kunth,"GRO JAL MIC MOR NAY PUE","GRO JAL MIC MOR NAY OAX PUE",s,s,s
+Anacardiaceae,"Mangifera indica",L.,"OAX VER YUC","CHP GRO MIC MOR NAY OAX TAB VER YUC",s,s,s
+Anacardiaceae,"Metopium brownei","(Jacq.) Urb.",ROO,"CAM ROO",'-,'-,s
+Anacardiaceae,"Pistacia mexicana",Kunth,"CHP OAX","CHP GRO MIC OAX",'-,s,s
+Anacardiaceae,"Rhus chondroloma",Standl.,OAX,OAX,'-,'-,s
