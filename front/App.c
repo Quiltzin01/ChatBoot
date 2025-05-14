@@ -1,9 +1,10 @@
 // Frontend del chatbot Florabot
 
 #include <stdio.h>
+#include <stdlib.h>
 #include <time.h>
 
-// Función para poner retardo para hacer la animación de cuando inicia la interfaz gráfica
+// Función para poner retardo
 void delay(float numberOfSeconds){
 	float milliSeconds = 1000 * numberOfSeconds;
 	clock_t startTime = clock();
@@ -13,26 +14,28 @@ void delay(float numberOfSeconds){
 
 int main(){
     // Definiendo el amaño del banner de la interfaz gráfica (filas y columnas)
-    int interfaceSizeRows = 38;
+    int interfaceSizeRows = 20;
     int interfaceSizeColumns = 150;
     int i, j;
     // Matriz que interpreta el banner visual
     char interface[interfaceSizeRows][interfaceSizeColumns];
+    // Línea que sale al final de la respuesta
+    char divisionLine[interfaceSizeColumns];
 
     char question[250];
 
     // Creando el banner
-    for (i = 0; i < interfaceSizeRows/2-1; i++){
+    for (i = 0; i < interfaceSizeRows; i++){
         for (j = 0; j < interfaceSizeColumns; j++){
             interface[i][j] = 219; // Caracter ASCII
         }
     }
 
-    // Mostrando el banner
-    for (i = 0; i < interfaceSizeRows/2-1; i++){
+    for (i = 0; i < interfaceSizeRows; i++){
         for (j = 0; j < interfaceSizeColumns; j++){
             printf("%c", interface[i][j]);
         }
+        delay(0.1);
         printf("\n");
     }
 
@@ -40,18 +43,58 @@ int main(){
     printf("\n%s", "Haga una pregunta sobre la familia de las plantas medicinales: ");
 
     // Escribiendo la pregunta en un archivo de texto para pasársela al backend para que el backend la procese
-    FILE *file = fopen("pregunta.txt", "w");
-	if (file == NULL){
-		printf("%s\n", "Hubo un error, intentelo de nuevo.");
-		return 1;
+    FILE *file1 = fopen("pregunta.txt", "w");
+	if (file1 == NULL){
+		printf("%s\n", "Hubo un error al producir la pregunta, intentelo de nuevo.");
+        printf("%s\n", "Presione cualquier tecla para continuar.");
+        getchar();
+		exit(1);
 	}
 
 	scanf("%[^\n]%*c", question);
-	fprintf(file,"%s", question);
-	fclose(file);
+	fprintf(file1,"%s", question);
+	fclose(file1);
 
-    printf("\n");
-    printf("\n");
+    printf("\n\n");
 
+    FILE *file2 = fopen("respuesta.txt", "r");
+    char buffer[250];
+
+    // Esperando el archivo de texto producido por el backend
+    if (file2 == NULL){
+        // Si el backend no responde el menos de 5 segundos el proceso termina con el if de abajo
+        delay(5);
+    }
+
+    if (file2 == NULL){
+		printf("%s\n", "Hubo un error al mostrar la respuesta, intentelo de nuevo.");
+        printf("%s\n", "Presione cualquier tecla para continuar.");
+        getchar();
+		exit(1);
+	}
+
+    // Mostrando el contenido del archivo de texto con la respuesta producida por el backend
+    while (fgets(buffer, 250, file2) != NULL){
+        printf("%s", buffer);
+    }
+
+    fclose(file2);
+
+    printf("\n\n");
+
+    // Creando y mostrando la línea que sale al final de la respuesta
+    for (i = 0; i < interfaceSizeColumns; i++){
+        divisionLine[i] = 219; // Caracter ASCII
+    }
+
+    for (i = 0; i < interfaceSizeColumns; i++){
+        printf("%c", divisionLine[i]);
+    }
+
+    // Terminando el programa
+    printf("\n\n");
+    printf("%s\n", "Presione cualquier tecla para salir.");
+    getchar();
+    
     return 0;
 }
